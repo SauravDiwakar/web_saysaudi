@@ -1,7 +1,7 @@
 {
     "routes": [
       {
-        "route": "/*",
+        "route": "https://saysaudi.com",
         "redirect": "https://www.saysaudi.com",
         "statusCode": 301
       }
