@@ -1,0 +1,10 @@
+{
+    "routes": [
+      {
+        "route": "/*",
+        "redirect": "https://www.saysaudi.com",
+        "statusCode": 301
+      }
+    ]
+  }
+  
